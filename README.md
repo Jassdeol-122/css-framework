@@ -46,6 +46,7 @@ Include the compiled CSS file in your HTML:
 
 Customize the framework by modifying the variables in src/scss/_variables.scss.
 
+
 ```scss
 // Colors
 $primary-color: #007bff;
